@@ -70,16 +70,3 @@ This project involves predicting house prices using Exploratory Data Analysis (E
 - Perform predictions on test data.  
 - Refine the model by addressing outliers or feature selection.  
 
----
-
-## **How to Run the Project**  
-1. **Setup Environment**:  
-   - Install required libraries: `pip install numpy pandas matplotlib seaborn scikit-learn`.  
-2. **Load Dataset**:  
-   - Place `Housing.csv` in the project directory.  
-3. **Execute Notebook**:  
-   - Run the cells sequentially to perform data processing, EDA, and model training.  
-
----
-
-This repository demonstrates the basic workflow of preparing data, performing EDA, and building a linear regression model to predict house prices effectively.
